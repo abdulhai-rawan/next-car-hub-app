@@ -17,11 +17,11 @@ const Footer = () => {
           <p className="text-base text-gray-700">
             © {new Date().getFullYear()}. Designed and developed by{" "}
             <a
-              href="#"
+              href="https://github.com/abdulhai-rawan"
               className="text-blue-700"
               target="_blank"
             >
-              hamid
+              abdulhairawan
             </a>
             . All rights reserved.
           </p>
